@@ -15,4 +15,5 @@ This repository contains daily Python problems and solutions aimed at building c
 ## ✍️ Author
 
 **Anand Kumar Singh**  
-Senior Data Engineer | Preparing for Python Interviews
+Senior Data Engineer | Preparing for Python Interviews  
+[Connect on LinkedIn](https://www.linkedin.com/in/anand-kumar-singh-830839ab)
