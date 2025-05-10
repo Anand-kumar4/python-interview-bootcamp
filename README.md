@@ -17,7 +17,7 @@ Each day includes cleanly documented problems, multiple approaches, and test cas
 - [Day 1 – Basics](./Day1_Basics/README.md)
 - [Day 2 – Strings](./Day2_Strings/README.md)
 - [Day 3 – Lists](./Day3_Lists/README.md)
-- Day 4 – Dictionaries & Sets (Coming Soon)
+- [Day 4 – Dictionaries, Sets & Tuples](./Day4_Dictionaries_Sets_Tuples/README.md)
 - Day 5 – More Strings (Coming Soon)
 - Day 6–30 – To Be Published Daily
 
